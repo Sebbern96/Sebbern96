@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sebbern96
 - 👀 I’m interested in learning about programming, and different coding languages/structures
-- 🌱 I’m currently learning Advanced Java, React framework in JavaScript. 
-- 📫 How to reach me ...
+- 🌱 I’m currently working as an Outystem developer professionaly, but my gitub projects is mainly fullstack projects where I can practice traditional code.
 
 <!---
 Sebbern96/Sebbern96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
